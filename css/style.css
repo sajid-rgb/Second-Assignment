@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #FFFBF0;
+}
+header h2{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+header h2,li a{
+    color: #363958;
+}
+.Penguin-mark{
+    color: #FABE4C;
+}
+.button{
+    background-color: #A4BC46;
+    border-radius: 10px;
+}
+.buy-now{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+header p{
+    font-family: 'Roboto', sans-serif;
+    width: 360px;
+}
+ .typesetting{
+    width: 180px;
+}
+.card-img{
+    background-color: grey;
+    width: 300px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    }
+.Lather-Jacket{
+    height: 300px;
+}
+.Casual-img{
+    width: 180px;
+}
+.JACKET-Card,.detail{
+    border: none;
+    border-radius: 10px;
+}
+#Yellow-Coat
+{
+    width: 250px;
+}
+#Ladies-Jacket{
+    width: 190px;
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 24px;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+}
+#price{
+    color: #FABE4C;
+}
+main h1{
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.three-services{
+    height: 500px;
+}
+.services-img img{
+    width: 90%;
+    
+}
